@@ -1,5 +1,6 @@
 # SimpleTurtleCross
 
+This project was created as part of an online python learning course. 
 A simple recreation of a street crossing game. 
 
 Core learning concepts were:
